@@ -2,7 +2,7 @@
 Olá 👋<br><br>Meu nome é Julio, tenho 26 anos e atualmente estou trilhando a carreira de desenvolvimento.<br>No momento estou em uma formação para FullStack Jr.<br><br>
 
 Hi 👋<br><br>My name is Julio, I'm 26 years old and I'm currently pursuing a career in the development area..<br>
-I'm currently training for FullStack Jr..<br><br>
+I'm currently training for FullStack Jr.<br><br>
 
 
 ## 🌐 Socials:
